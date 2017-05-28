@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://www.lftransportes.com.br/</loc>
+  <priority>1.00</priority>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.lftransportes.com.br/home/</loc>
+  <priority>0.80</priority>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.lftransportes.com.br/clientes/</loc>
+  <priority>0.80</priority>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.lftransportes.com.br/frota/</loc>
+  <priority>0.80</priority>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.lftransportes.com.br/filiais/</loc>
+  <priority>0.80</priority>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.lftransportes.com.br/infraestrutura/</loc>
+  <priority>0.80</priority>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.lftransportes.com.br/empresa/</loc>
+  <priority>0.80</priority>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.lftransportes.com.br/certificacoes/</loc>
+  <priority>0.80</priority>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.lftransportes.com.br/rastreamento/</loc>
+  <priority>0.80</priority>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.lftransportes.com.br/faleconosco/</loc>
+  <priority>0.80</priority>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.lftransportes.com.br/noticias/3</loc>
+  <priority>0.80</priority>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.lftransportes.com.br/noticias/2</loc>
+  <priority>0.80</priority>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.lftransportes.com.br/noticias/1</loc>
+  <priority>0.80</priority>
+  <changefreq>daily</changefreq>
+</url>
+</urlset>

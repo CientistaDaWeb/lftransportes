@@ -1,0 +1,11 @@
+php_value register_globals off
+php_value display_errors off
+<IfModule mod_rewrite.c>
+	RewriteEngine on
+	RewriteRule ^home/?$ index.php
+	RewriteRule ^(faleconosco|politica|noticias|clientes|coleta|certificacoes|rastreamento|infraestrutura|frota|empresa|filiais|filialfarroupilha)/?$ $1.php
+	RewriteRule ^noticias/([0-9]+)/?$ noticias.php?id_noticia=$2
+	RewriteRule ^filiais/([a-zA-Z]+)/?$ filiais.php?id_estado=$2
+	RewriteRule ^admin/?$ http://www.weentigra.com.br/login/RMiMwMwEBEAIgH+9FtMv8x0UxqVh47a38gA=
+    RewriteRule ^webmail/?$ http://webmail.lftransportes.com.br
+</IfModule>
